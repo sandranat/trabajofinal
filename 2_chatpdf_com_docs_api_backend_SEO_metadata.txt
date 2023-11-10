@@ -1,0 +1,12 @@
+Title:
+
+ChatPDF Backend API - extract information and chat with PDFs
+
+Description:
+
+None
+
+Keywords:
+
+None
+

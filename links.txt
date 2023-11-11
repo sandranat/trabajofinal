@@ -1,4 +1,0 @@
-1: https://www.chatpdf.com/
-2: https://www.chatpdf.com/docs/api/backend
-3: https://www.chatpdf.com/privacy-policy.html
-4: https://www.chatpdf.com/tos.html
